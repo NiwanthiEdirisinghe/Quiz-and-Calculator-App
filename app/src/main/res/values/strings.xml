@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="main_page_title">SIT708 Quiz App</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="submit_button_label">Submit</string>
+    <string name="go_to_calculator_button_label">Go to Calculator</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="question_01_titile">Question 01</string>
+    <string name="sample_question">In the aftermath of World War II, the international community sought to establish systems to promote peace and prevent further global conflicts. One of the most significant outcomes was the formation of the United Nations (UN) in 1945. The UN was created with the primary goals of maintaining international peace and security, promoting human rights, fostering social and economic development?</string>
+    <string name="answer_01_label">Answer 01</string>
+    <string name="answer_submit_button_label">Submit</string>
+    <string name="question_result_next_button_label">Next</string>
+    <string name="congaratulations_statement">Congaratulations your name!</string>
+    <string name="your_score_statement">Your score:</string>
+    <string name="final_score">4/5</string>
+    <string name="take_new_quiz_button_label">Take New Quiz</string>
+    <string name="finish_button_label">Finish</string>
+</resources>
