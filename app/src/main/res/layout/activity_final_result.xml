@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/finalResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/congaratulations_statement"
+        android:gravity="center"
+        android:layout_marginTop="200dp"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/yourScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_score_statement"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/final_score"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/takeNewQuiz"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/take_new_quiz_button_label"
+        android:layout_marginTop="60dp"/>
+
+    <Button
+        android:id="@+id/finish"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/finish_button_label"
+        android:layout_marginTop="40dp"/>
+
+
+</LinearLayout>
